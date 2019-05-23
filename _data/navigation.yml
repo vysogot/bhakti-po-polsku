@@ -1,10 +1,10 @@
 # specify main menu items here
 
-- text: Home
-  url: /
-- text: About
-  url: /about
-- text: Contact
-  url: /contact
+- text: Filozofia
+  url: /filozofia
+- text: Psychologia
+  url: /psychologia
 - text: Blog
   url: /blog
+- text: Kontakt
+  url: /kontakt

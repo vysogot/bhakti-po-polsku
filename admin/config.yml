@@ -18,29 +18,28 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Szablon", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Tytuł", name: "title", widget: "string", tagname: "h1"}
       - label: "Author"
         name: "author"
         widget: "select"
         options:
-          - { label: "Dan Urbanowicz", value: "dan_urbanowicz" }
-          - { label: "John Doe", value: "john_doe" }
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:MM:SS"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
+          - { label: "Jakub Godawa", value: "jakub_godawa" }
+      - {label: "Data publikacji", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:MM:SS"}
+      - {label: "Krótkie wprowadzenie", name: "intro_paragraph", widget: "markdown", required: false}
+      - {label: "Część główna", name: "body", widget: "markdown", required: false}
+      - {label: "Kategorie", name: "categories", widget: "string", required: false}
     # PAGES
   - name: "page"
-    label: "Page"
+    label: "Strona"
     folder: "pages"
     sort: "title:asc"
     create: false
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {label: "Szablon", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Tytuł", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Adres", name: "permalink", widget: "hidden"}
+      - {label: "Sekcja", name: "section", widget: "hidden", default: "{{name}}"}
+      - {label: "Krótkie wprowadzenie", name: "intro_paragraph", widget: "markdown", required: false}
+      - {label: "Część główna", name: "body", widget: "markdown", required: false}
