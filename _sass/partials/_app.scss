@@ -104,6 +104,7 @@ main {
   }
 
   ol, ul, dl {
+    list-style: unset;
     margin-left: 3em;
     margin-bottom: 2em;
   }
