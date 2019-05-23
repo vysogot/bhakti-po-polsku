@@ -35,23 +35,23 @@ Psychologia Wedyjska Jiva opiera się na czterdziestoletnim studium doktora Saty
 
 Psychologia Wedyjska Jiva łączy prawdy wspólne ludziom oświeconym z praktyczną wiedzą współczesnej psychoterapii, a także technikami systemów Jogi i Ajurwedy.
 
-Metoda ta służy zwiększeniu świadomości siebie. Stosowana, rozwija sztukę samoobserwacji i introspekcji, mając za swoje fundamenty pisma święte. Zaprasza do podróży w kierunku prawdy na temat własnej tożsamości.
+Metoda ta służy zwiększeniu świadomości siebie. Stosowana, rozwija sztukę samoobserwacji i introspekcji, mając za swoje fundamenty pisma święte i tym samym kieruje w stronę prawdy na temat własnej tożsamości.
 
-Psychologia oferuje nam strategie sprzyjające zachowaniu spokoju i unikaniu impulsywnego angażowania się w kapryśne i przekonywujące gusta umysłu –jego pragnienia, bolączki i przyjemności. Uczy nas, jak umysł może być naszym przyjacielem czy wrogiem, w zależności od tego czy znamy swój umysł. Uczy nas także kontroli nad nim.
+Psychologia oferuje nam strategie sprzyjające zachowaniu spokoju i unikaniu impulsywnego angażowania się w kapryśne i przekonywujące gusta umysłu. Uczy nas, dlaczego umysł może być naszym przyjacielem lub wrogiem, w zależności od naszej jego znajomości. Uczy nas także kontroli nad nim.
 
-Nieopanowany umysł jest źródłem wielu chorób cywilizacyjnych, których przyczyn zbyt często, i błędnie, szuka się w okolicznościach zewnętrznych.
+Nieopanowany umysł jest źródłem wielu chorób cywilizacyjnych, których przyczyn zbyt często i błędnie szuka się w okolicznościach zewnętrznych.
 
-Psychologia Wedyjska Jiva podchodzi opisu umysłu jak do opisu samochodu, przedstawia jak działają jego części i jak go prowadzić. Wiedza ta pozwoli człowiekowi nabrać do niego dystansu, co z kolei pozwoli umysł opanować i uwolnić się od jego uwarunkowań. Stamtąd już krok do poczucia wolności i spokoju.
+Psychologia Wedyjska Jiva podchodzi do opisu umysłu jak do opisu samochodu, przedstawia jak działają jego części i jak go prowadzić. Wiedza ta pozwoli człowiekowi nabrać do niego dystansu, co z kolei pozwoli go opanować i uwolnić się od jego uwarunkowań. Stamtąd już krok do poczucia wolności i spokoju.
 
 ### Pytanie:
 
-Czy wasza metoda wymaga od pacjenta przyjęcia metafizycznego poglądu na rzeczywistość, w którym świadomość rozłączna jest od materii (w tym umysłu) i generuje doświadczenie prawdziwego “ja”?
+Czy wasza metoda wymaga od pacjenta przyjęcia jakiegoś metafizycznego poglądu na rzeczywistość, w którym to świadomość rozłączna jest umysłu i to ona generuje doświadczenie prawdziwego “ja”?
 
-W tradycyjnym systemie Jogi jak również w bhakti, oddzielenie od umysłu miało miejsce automatycznie po tym, gdy ktoś przyjął za prawdę owy pogląd na rzeczywistość, a następnie wykonywał sadhanę (praktykę duchową), medytował lub pracował w duchu oddania swojemu guru.
+W tradycyjnym systemie Jogi jak również w _bhakti_, oddzielenie od umysłu miało miejsce automatycznie po tym, gdy ktoś przyjął za prawdę owy pogląd na rzeczywistość, a następnie wykonywał _sadhanę_ (praktykę duchową), medytował lub służył w duchu oddania swojemu guru.
 
 Czy jest to metoda wsparcia dla waszych pacjentów, czy zwyczajnie staracie się angażować ludzi w pewną praktykę duchową, która wymaga od nich przyjęcia nowego poglądu na świat i dołączeniu do jakiejś sekty?
 
-Chodzi mi o to, czy Psychologię Wedyjską rzeczywiście da się zastosować w sensie klinicznym, bez (i tutaj z braku lepszego słowa) tak zwanej “konwersji” osoby szukającej pomocy?
+Chodzi mi o to, czy Psychologię Wedyjską rzeczywiście da się zastosować w sensie klinicznym bez (i tutaj z braku lepszego słowa) tak zwanej “konwersji” osoby szukającej pomocy?
 
 ### Odpowiedź:
 
