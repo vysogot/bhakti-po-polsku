@@ -1,12 +1,11 @@
 ---
 layout: home
-title: Welcome
+title: Radhe Radhe!
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  Oto strona poświęcona _bhakti_. Słowo _bhakti_ pochodzi od sanskryckiego
+  _bhaj_, co oznacza pełnienie służby. _Bhakti-yoga_ polega w skrócie na życiu w
+  taki sposób, który sprawia przyjemność Krysznie. Haribol!
 ---
+
