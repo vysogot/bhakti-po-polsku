@@ -4,8 +4,8 @@ title: Psychologia
 permalink: /psychologia
 section: psychologia
 intro_paragraph: >-
-  Psychologia Wedyjska Jiva koncentruje się na korzystaniu z inteligencji
-  (_buddhi_) celem uczenia się o sobie samym oraz introspekcji.
+  Psychologia Wedyjska koncentruje się na korzystaniu z inteligencji (_buddhi_)
+  celem uczenia się o sobie samym oraz introspekcji.
 ---
 _"Duchowość oznacza stawanie się uważnym na istotę duchową, na świadomość, lub na Najwyższą Osobę, Boga. Cała reszta związana jest z materią, a wiedzę, która dotyczy materii, Upaniszady nazywają niższą, ponieważ nie jest ona zdolna podnieść człowieka na duchu – nie zmienia jego charakteru i nie porządkuje w nim pragnień oraz gniewu, pożądania, chciwości, obłudy, depresji, strachu, niepokoju czy stresu._ 
 
