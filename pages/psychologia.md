@@ -17,9 +17,7 @@ _Człowiek mający dostęp jedynie do wiedzy na temat materii, idzie przez życi
 
 ### Wprowadzenie
 
-Psychologia Wedyjska Jiva opracowana została przez Satyanarayana Dasa Babajiego. Łączy ona teorię pochodzącą ze świętych pism hinduskich oraz praktyczne techniki psychoterapeutyczne przygotowane przez Joshikę Devi Dasi (Jessica Richmond).
-
-Celem Psychologii Wedyjskiej jest pomoc ludziom w zrozumieniu, opanowaniu i przekroczeniu umysłu (jego transcendencji) po to, aby mogli doświadczać prawdziwego szczęścia i bezwarunkowej miłości.
+Celem Psychologii Wedyjskiej Jiva jest pomoc ludziom w zrozumieniu, opanowaniu i przekroczeniu umysłu (jego transcendencji) po to, aby mogli doświadczać prawdziwego szczęścia i bezwarunkowej miłości.
 
 Zrozumienie umysłu jest tym istotniejsze dla duchownych. Jeśli chcą oni osiągnąć sukces w swoim przedsięwzięciu, to muszą zdawać sobie sprawę z tego jak funkcjonuje umysł. Osoba szczerze praktykująca, niezależnie od ścieżki, którą obrała, stara się w jakiś sposób wpłynąć na swój umysł lub na swoją świadomość. Ważne zatem, aby wiedziała, co robi i odpowiedziała sobie na następujące pytania:
 
