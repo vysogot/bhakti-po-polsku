@@ -4,8 +4,12 @@ title: Psychologia
 permalink: /psychologia
 section: psychologia
 intro_paragraph: >-
-  Psychologia Wedyjska koncentruje się na korzystaniu z inteligencji (_buddhi_)
-  celem uczenia się o sobie samym oraz introspekcji.
+  Psychologia Wedyjska Jiva łączy wiedzę pochodzącą ze świętych pism hinduskich
+  oraz praktyczne techniki współczesnej psychoterapii. Jej autorami są
+  [Satyanarayana Dasa
+  Babaji](https://www.jiva.org/satyanarayana-dasa/curriculum-vitae/) oraz
+  [Joshika Devi
+  Dasi](https://kripalu.org/presenters-programs/presenters/jessica-richmond).
 ---
 _"Duchowość oznacza stawanie się uważnym na istotę duchową, na świadomość, lub na Najwyższą Osobę, Boga. Cała reszta związana jest z materią, a wiedzę, która dotyczy materii, Upaniszady nazywają niższą, ponieważ nie jest ona zdolna podnieść człowieka na duchu – nie zmienia jego charakteru i nie porządkuje w nim pragnień oraz gniewu, pożądania, chciwości, obłudy, depresji, strachu, niepokoju czy stresu._ 
 
@@ -13,49 +17,60 @@ _Człowiek mający dostęp jedynie do wiedzy na temat materii, idzie przez życi
 
 ### Wprowadzenie
 
-Psychologia Wedyjska Jiva (czyt. Dżiwa) jest wiedzą opracowaną przez dr Satyanarayana Dasa Babaji (Satjanarajana Dasę Babadżiego), która łączy teorię pochodzącą ze świętych pism hinduskich (śastra) oraz praktyczne techniki psychoterapeutyczne opracowane przez Joshikę Devi Dasi (Jessica Richmond). 
+Psychologia Wedyjska Jiva opracowana została przez Satyanarayana Dasa Babajiego. Łączy ona teorię pochodzącą ze świętych pism hinduskich oraz praktyczne techniki psychoterapeutyczne przygotowane przez Joshikę Devi Dasi (Jessica Richmond).
 
-Jej celem jest pomoc ludziom w rozumieniu, opanowaniu i przekroczeniu umysłu (transcendencji), aby mogli doświadczać prawdziwego szczęścia i bezwarunkowej miłości. Zrozumienie umysłu jest tym istotniejsze dla osób duchownych. Jeśli chcą oni osiągnąć sukces w swojej domenie, muszą zdawać sobie sprawę z tego jak działa umysł.
+Celem Psychologii Wedyjskiej jest pomoc ludziom w zrozumieniu, opanowaniu i przekroczeniu umysłu (jego transcendencji) po to, aby mogli doświadczać prawdziwego szczęścia i bezwarunkowej miłości.
 
-Każdy szczera osoba praktykująca, niezależnie od ścieżki, którą obrała, stara się w jakiś sposób wpłynąć na swój umysł, na swoją umysłową świadomość. Dlatego tak ważne jest, aby wiedzieć, jak działa umysł. 
+Zrozumienie umysłu jest tym istotniejsze dla duchownych. Jeśli chcą oni osiągnąć sukces w swoim przedsięwzięciu, to muszą zdawać sobie sprawę z tego jak funkcjonuje umysł. Osoba szczerze praktykująca, niezależnie od ścieżki, którą obrała, stara się w jakiś sposób wpłynąć na swój umysł lub na swoją świadomość. Ważne zatem, aby wiedziała, co robi i odpowiedziała sobie na następujące pytania:
 
-* Jaka jest jego charakterystyka? 
-* Jakie są jego funkcje? 
-* W jaki sposób powiązany jest z intelektem, z ego, oraz zmysłami?
-* Jak radzi sobie z wrażeniami zmysłowymi i w jaki sposób dane sytuacje wywołują w nim dane reakcje i emocje? 
+* Jaka jest charakterystyka umysłu?
+* Jakie są jego funkcje?
+* W jaki sposób umysł powiązany jest z intelektem, ego, i zmysłami?
+* Jak umysł radzi sobie z wrażeniami zmysłowymi?
+* W jaki sposób na umysł oddziałuje jego środowisko?
 
-Niektórzy z pewnością znają te pojęcia w teorii, jednak ciężko jest im w efektywny sposób zastosować do własnego umysłu. Wymaga to dużo praktyki i dyscypliny oraz przewodnictwa, by obserwować i zarządzać własnym umysłem i oczyścić go z negatywnych schematów myślenia. Jeśli nie będziemy w stanie oczyścić i opanować własnego umysłu, jak będziemy w stanie dostrzec nasze prawdziwe ja, wolne od umysłowego uwarunkowania?
+Czasami znajomość teorii nie jest problemem, jednak ciężko jest w efektywny sposób zastosować ją do własnego umysłu. Wymaga to ogromnej praktyki i dyscypliny oraz kierownictwa duchowego, by obserwować własny umysł i umiejętnie nim zarządzać czy oczyścić z negatywnych schematów myślenia. Bo jeśli nie będziemy w stanie tego dokonać, to jak dostrzeżemy nasze prawdziwe, wolne od umysłowych uwarunkowań “ja”?
 
-### Połączenie wiedzy z pism świętych i współczesnej psychologii
+### Wedy i współczesna psychologia
 
-Psychologia Wedyjska Jiva opiera się na czterdziestoletnim studium doktora Satyanarayana Dasy Babaji, dotyczącego znaczenia pism i nauk Wedyjskich. W jego przekonaniu literatura ta przekazuje wiedzę o ludzkim umysłu i prawdziwym ja w sposób najgłębszy. Psychologia Wedyjska Jiva łączy prawdy wspólne ludziom oświeconym z praktyczną wiedzą współczesnej psychoterapii, a także technikami systemów Jogi i Ajurwedy.
+Psychologia Wedyjska Jiva opiera się na czterdziestoletnim studium doktora Satyanarayana Dasy Babadżiego, dotyczącego znaczenia pism i nauk Wedyjskich. W jego przekonaniu literatura ta przekazuje wiedzę o ludzkim umyśle i ludzkiej tożsamości w sposób najgłębszy.
 
-Metoda ta służy wyostrzeniu świadomości siebie, samoobserwacji i umiejętności introspekcji, poprzez zastosowanie jej teorii w praktyce. Psychologia Wedyjska, której fundamentami są pisma święte, nie skupia się objawach, lecz na przyczynach problemu. Jest podróżą w stronę prawdy o naszej własnej tożsamości.
+Psychologia Wedyjska Jiva łączy prawdy wspólne ludziom oświeconym z praktyczną wiedzą współczesnej psychoterapii, a także technikami systemów Jogi i Ajurwedy.
 
-W praktyce, Psychologia Wedyjska Jiva oferuje nam strategie sprzyjające zachowaniu spokoju i unikaniu impulsywnego angażowania się w kapryśne i przekonywujące gusta umysłu, jego pragnienia, bóle oraz przyjemności. Psychologia Wedyjska Jiva uczy, jak umysł może być naszym przyjacielem lub wrogiem, w zależności od tego czy znamy swój umysł oraz to, jak go kontrolować.
+Metoda ta służy zwiększeniu świadomości siebie. Stosowana, rozwija sztukę samoobserwacji i introspekcji, mając za swoje fundamenty pisma święte. Zaprasza do podróży w kierunku prawdy na temat własnej tożsamości.
 
-Nieopanowany umysł jest prowodyrem wielu współczesnych chorób, których przyczyn zbyt często i błędnie szuka się w okolicznościach zewnętrznych. Nauka o ludzkim umyśle jest przyda się każdemu, ponieważ pomaga w kultywowaniu życzliwych związków opartych na współczuciu w każdej dziedzinie życia. Psychologia Wedyjska Jiva pomaga zrozumieć różne aspekty umysłu i to, jak działają, analogicznie do zrozumienia działania samochodu przed jego prowadzeniem. Wiedza ta pozwoli nam oddzielić się od umysłu, aby móc go opanować i wreszcie uwolnić się od niego, co da nam poczucie wolności i wewnętrznego spokoju.
+Psychologia oferuje nam strategie sprzyjające zachowaniu spokoju i unikaniu impulsywnego angażowania się w kapryśne i przekonywujące gusta umysłu –jego pragnienia, bolączki i przyjemności. Uczy nas, jak umysł może być naszym przyjacielem czy wrogiem, w zależności od tego czy znamy swój umysł. Uczy nas także kontroli nad nim.
+
+Nieopanowany umysł jest źródłem wielu chorób cywilizacyjnych, których przyczyn zbyt często, i błędnie, szuka się w okolicznościach zewnętrznych.
+
+Psychologia Wedyjska Jiva podchodzi opisu umysłu jak do opisu samochodu, przedstawia jak działają jego części i jak go prowadzić. Wiedza ta pozwoli człowiekowi nabrać do niego dystansu, co z kolei pozwoli umysł opanować i uwolnić się od jego uwarunkowań. Stamtąd już krok do poczucia wolności i spokoju.
 
 ### Pytanie:
 
-Czy wasza metoda wymaga od pacjenta przyjęcia nowego metafizycznego poglądu na rzeczywistość, w którym to świadomość generująca doświadczenie prawdziwego ja rozłączna jest od materii, a tym samym i umysłu? 
+Czy wasza metoda wymaga od pacjenta przyjęcia metafizycznego poglądu na rzeczywistość, w którym świadomość rozłączna jest od materii (w tym umysłu) i generuje doświadczenie prawdziwego “ja”?
 
-W tradycyjnym systemie Jogi jak również w bhakti, oddzielenie od umysłu miało miejsce automatycznie po tym, jak ktoś przyjął ten alternatywny pogląd na rzeczywistość, a następnie wykonywał sadhanę, albo poprzez medytację lub pracę w duchu oddania. Czy istnieje jakaś trzecia metoda wsparcia dla waszych pacjentów, czy zwyczajnie staracie się angażować ludzi w pewną praktykę duchową, która wymaga od nich przyjęcia nowego poglądu na świat? 
+W tradycyjnym systemie Jogi jak również w bhakti, oddzielenie od umysłu miało miejsce automatycznie po tym, gdy ktoś przyjął za prawdę owy pogląd na rzeczywistość, a następnie wykonywał sadhanę (praktykę duchową), medytował lub pracował w duchu oddania swojemu guru.
 
-Chodzi mi o to, czy psychologia Wedyjska rzeczywiście da się zastosować w sensie klinicznym, bez, tutaj z braku lepszego słowa, tak zwanej "konwersji" osoby szukającej pomocy?
+Czy jest to metoda wsparcia dla waszych pacjentów, czy zwyczajnie staracie się angażować ludzi w pewną praktykę duchową, która wymaga od nich przyjęcia nowego poglądu na świat i dołączeniu do jakiejś sekty?
+
+Chodzi mi o to, czy Psychologię Wedyjską rzeczywiście da się zastosować w sensie klinicznym, bez (i tutaj z braku lepszego słowa) tak zwanej “konwersji” osoby szukającej pomocy?
 
 ### Odpowiedź:
 
-Zarówno szkoła Jogi jak i bhakti twierdzą, że źródłową przyczyną cierpienia jest ignorancja, avidya, wobec prawdziwego ja. Podczas sesji terapia odbywa się więc równolegle z edukowaniem pacjenta o jego umyśle i prawdziwym ja. Bez tej edukacji pomyślna terapia jest niemożliwa.
+Zarówno szkoła Jogi jak i bhakti twierdzą, że źródłową przyczyną cierpienia jest ignorancja, _avidya_, prawdziwego ja. Sesji terapeutyczna odbywa się więc równolegle z edukowaniem pacjenta o jego umyśle i o prawdziwym ja. Bez tej edukacji pomyślna terapia nie jest możliwa.
 
-W tradycyjnych systemach indyjskich studenci uczyli się w zacisznych, spokojnych miejscach, z dala od zgiełku materialnych spraw i mogli skupić się wyłącznie na rozwoju duchowym. Nauczyciel mógł wtedy do woli obserwować jak myślą, reagują i zachowują się jego uczniowie w różnych sytuacjach. Studenci żyli z nauczycielami i służyli im przez wiele lat, zanim ci odkryliby przed nimi tajniki głębokich nauk, takich jak wiedza pochodząca z Upaniszad. Dawało to nauczycielowi możliwość pracowania z umysłami swoich uczniów, aby upewnić się, czy są one przejrzyste i gotowe na otrzymanie świętych nauk we właściwym czasie.
+W tradycyjnych systemach indyjskich studenci uczyli się w zacisznych, spokojnych miejscach, z dala od zgiełku materialnych spraw. Mogli skupić się wtedy wyłącznie na rozwoju duchowym. Ich nauczyciel mógł do woli obserwować jak myślą, jak reagują i jak zachowują się jego uczniowie w różnych sytuacjach. Studenci żyli wtedy z nauczycielami i służyli im przez wiele lat, zanim nauczyciele odkryliby przed nimi tajniki głębokich nauk, takich jak wiedza pochodząca z Upaniszad. Dawało to nauczycielowi możliwość pracowania z umysłami swoich uczniów, aby upewnić się, czy są one przejrzyste i gotowe na otrzymanie świętych nauk we właściwym czasie.
 
-Współcześnie, możliwość przebywania z guru przez wiele lat i w tak wielu sytuacjach, zdarza się niezwykle rzadko. Co więcej, uczeń żyje zazwyczaj w zgiełku materialnych spraw, co dodatkowo zaburza jego umysł. Dlatego umysł potrzebuje współczesnych metod, aby nim zarządzać. To, co w Twoim pytaniu zostało nazwane "konwersją", my nazywamy edukacją o rzeczywistości.
+Współcześnie, możliwość przebywania z guru przez wiele lat i w tak wielu sytuacjach zdarza się niezwykle rzadko. Co więcej, uczeń żyje zazwyczaj w zgiełku materialnych spraw, co dodatkowo zaburza jego umysł. Dlatego umysł potrzebuje współczesnych sposobów, aby nim tym umysłem zarządzać. To, co w Twoim pytaniu zostało nazwane “konwersją”, my nazywamy edukacją o rzeczywistości.
 
-Psychologia Wedyjska Jiva czerpie z Wed, używając do tego praktycznych technik, skoncentrowanych na zastosowaniu inteligencji (buddhi) do uczenia się o sobie samym i do introspekcji. Techniki te budują samoświadomość, przez co pomagają w skutecznym opanowaniu umysłu i emocji, który inaczej ucieka się do nieświadomych reakcji.
+Psychologia Wedyjska Jiva czerpie garściami z Wed, używając do tego praktycznych technik, skoncentrowanych na zastosowaniu inteligencji (_buddhi_) do uczenia się o sobie samym i rozwijania umiejętności introspekcji. Techniki te budują samoświadomość, przez co pomagają w skutecznym opanowaniu umysłu i emocji, który w innym razie ucieka się do nieświadomych reakcji.
 
-Wiele osób studiuje i wie czym jest ego (ahankara) czy wspomnienia (samskaras), będąc akademicko przygotowanymi. Z łatwością zdaliby egzamin dotyczący części umysłu. Niemniej jednak, mogą nie mieć oni praktycznego doświadczenia bycia świadomym i opanowania własnego umysłu i emocji. Mogą być w tym podobni do kardiologa z wielkim brzuchem, palącego paczkę papierosów dziennie i mówiącego swoim pacjentom, że musi schudnąć i rzucić palenie. Jedna rzecz to wiedzieć, druga to naprawdę to zrobić.
+Wiele osób studiuje psychologię Wedyjską i wie czym jest ego (_ahankara_) czy wspomnienia (_samskara_) i są wręcz akademicko przygotowanymi. Z łatwością zdaliby egzamin dotyczący budowy umysłu. Niemniej jednak, mogą oni nie mieć doświadczenia bycia świadomym i opanowania własnego umysłu i emocji. Mogą być w tym podobni do kardiologa z wielkim brzuchem, który pali paczkę papierosów dziennie, dającego rady swoim pacjentom, że muszą schudnąć i rzucić palenie.
 
-Stosowanie wiedzy teoretycznej leży u podstaw Psychologii Wedyjskiej Jiva. Bez tego bardzo trudno jest osiągnąć transcendencję, zwłaszcza współcześnie. Bez uczenia się o tym jak zarządzać umysłem, ludzie powtarzają krzywdzące reakcje wobec siebie nawzajem. Niektórzy ignorują i tłumią swoje emocje, a następnie borykają się z pożądaniem, strachem, chciwością, lękami, zazdrością, gniewem, uzależnieniami i depresją. Wiele osób medytuje codziennie i przez lata, lecz wciąż cierpią z powodu emocjonalnego braku równowagi.
+Jedna rzecz to wiedzieć, druga to naprawdę to zrobić.
 
-Często widzimy jak tego rodzaju problemy występują w wewnątrz organizacji duchowych, gdzie ludzie medytują, intonują pieśni i każdego dnia angażują się w praktykę oddania, jednak wciąż rywalizują o władzę zamiast współpracować w harmonii jednego serca. Psychologia Wedyjska Jiva pomaga człowiekowi jaśniej zobaczyć jak funkcjonuje jego umysł, aby mogli uzyskać nad nim kontrolę i być prawdziwie kochającymi, wyrozumiałymi i akceptującymi wszystkich, których spotkają na swojej drodze.
+Stosowanie wiedzy teoretycznej leży u podstaw Psychologii Wedyjskiej Jiva. Bez tego bardzo trudno jest przekroczyć uwarunkowania umysłu, zwłaszcza w dzisiejszych czasach. Bez uczenia się o tym jak zarządzać umysłem, ludzie krzywdzą siebie nawzajem za sprawą swoich nieświadomych reakcji. Niektórzy ignorują i tłumią swoje emocje, a następnie borykają się z pożądaniem, strachem, chciwością, lękami, zazdrością, gniewem, uzależnieniami czy depresją. Jest też wiele osób, które medytują codziennie i to od lat, ale wciąż cierpią z powodu emocjonalnego braku równowagi.
+
+Dostrzegamy też jak tego rodzaju problemy wewnątrz organizacji duchowych. Ludzie medytują, intonują pieśni, każdego dnia angażując się w praktykę oddania — jednak wciąż rywalizują o władzę zamiast współpracować w harmonii jednego serca. Psychologia Wedyjska Jiva pomaga im jaśniej zobaczyć jak funkcjonuje ich umysł, aby mogli uzyskać nad nim kontrolę i być prawdziwie kochającymi, wyrozumiałymi i akceptującymi osobami, których witają to, co spotkają na swojej drodze.
+
+Więcej na stronie [https://jiva.org/psychology](https://www.jiva.org/psychology/)
