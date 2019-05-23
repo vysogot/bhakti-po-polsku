@@ -102,6 +102,11 @@ main {
   @media screen and (min-width: $screen-md-min) {
     align-content: start;
   }
+
+  ol, ul, dl {
+    margin-left: 3em;
+    margin-bottom: 2em;
+  }
 }
 
 // reset breaking fallbacks (e.g. widths) if CSS Grid is supported
